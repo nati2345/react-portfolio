@@ -12,7 +12,7 @@ class Projects extends Component {
               <div className='project_text' >
                   <h1 data-aos={"fade-right"}>Portfolio Website</h1>
                   <p data-aos={"fade-right"}>This project is portfolio website done with react. </p>
-                      <button className='project_btn' data-aos={"fade-right"}>Live Demo</button><a href=''  className='sourcecode' data-aos={"fade-right"}>Source Code</a>
+                      <button className='project_btn' data-aos={"fade-right"}>Live Demo</button><a href='https://github.com/nati2345/react-portfolio'  className='sourcecode' data-aos={"fade-right"}>Source Code</a>
               </div>
               <div data-aos={"fade-left"} className='portfolioimg'></div>
           </div>
