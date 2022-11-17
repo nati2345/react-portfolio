@@ -20,7 +20,7 @@ class Projects extends Component {
               <div className='project_text' >
                   <h1 data-aos={"fade-right"}>Gym website</h1>
                   <p data-aos={"fade-right"}>This is gym website done with html and css. design and developed by me. check it out annd let me know!</p>
-                  <button className='project_btn' data-aos={"fade-right"}>Live Demo</button><a href='' className='sourcecode' data-aos={"fade-right"}>Source Code</a>
+                  <button className='project_btn' data-aos={"fade-right"}>Live Demo</button><a href='https://nati2345.github.io/html-gym-website/' className='sourcecode' data-aos={"fade-right"}>Source Code</a>
               </div>
               <div className='gymimg' data-aos={"fade-left"}></div>
           </div>
